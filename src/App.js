@@ -26,7 +26,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename="/Students">
       <div class="App">
         <Header />
         <main>
